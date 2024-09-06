@@ -4,7 +4,6 @@
 
 ## Connect With Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buraktorunn1@gmail.com)
-[![Instagram](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/_buraktorun_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burak-torun-0466b02b0) 
 
 ## Languages and Tools:
@@ -24,6 +23,8 @@
 - Worked for [Anadolupos.com.tr](https://anadolupos.com.tr) as Intern in June 2022
   
 - Worked for [Novacity Shopping Mall](https://novacityavm.com) as Intern in July 2023
+
+- Worked for [Kurtuba Soft](https://www.kurtubasoft.com/) as Intern in Currently
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=buraktorun&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
