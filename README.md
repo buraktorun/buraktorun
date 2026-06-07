@@ -1,30 +1,30 @@
-# Hi 👋, I'm Burak Torun
-- A Passionate Software Developer From Turkey
+# Merhaba 👋, Ben Burak Torun
+- Junior Yazılım Geliştirici
 
 
-## Connect With Me:
+## İletişim Bilgilerim:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buraktorunn1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burak-torun-0466b02b0) 
 
-## Languages and Tools:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+## Becerilerim:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-blue?style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web%20API-009688?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=nuget&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-## Works
+## İş Deneyimlerim
 
-- Worked for [Anadolupos.com.tr](https://anadolupos.com.tr) as Intern in June 2022
-  
-- Worked for [Novacity Shopping Mall](https://novacityavm.com) as Intern in July 2023
-
-- Worked for [Kurtuba Soft](https://www.kurtubasoft.com/) as Intern in Currently
+- Kurtuba Soft | Yazılım Geliştirici (Eylül 2024 - Haziran 2025)
+- Kurtuba Soft | Stajyer (Ağustos 2024 - Eylül 2024)
+- Novacity AVM | Stajyer (Temmuz 2023 - Eylül 2023)
+- Anadolu POS | Stajyer (Haziran 2022 - Eylül 2022)
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=buraktorun&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
