@@ -25,6 +25,3 @@
 - Kurtuba Soft | Stajyer (Ağustos 2024 - Eylül 2024)
 - Novacity AVM | Stajyer (Temmuz 2023 - Eylül 2023)
 - Anadolu POS | Stajyer (Haziran 2022 - Eylül 2022)
-
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=buraktorun&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
